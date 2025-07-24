@@ -204,6 +204,10 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 - [tmux-example-plugin](https://github.com/tmux-plugins/tmux-example-plugin) Example Tmux plugin that actually demonstrates how to build plugins for Tmux
 - [tmux-test](https://github.com/tmux-plugins/tmux-test) A small framework for isolated testing of tmux plugins.
 
+## AI
+
+- [AI takes over TMUX socket via SSH one-liner](https://github.com/publicdomainrelay/sshai)
+
 ## Books
 
 - [tmux 2: Productive Mouse-Free Development](https://pragprog.com/book/bhtmux2/tmux-2/)
